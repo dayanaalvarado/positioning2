@@ -1,0 +1,24 @@
+.uno {
+		background-color: #00EE18;
+		width: 200px; 
+		height: 200px;
+		position: absolute;	
+	}
+
+.dos { 
+		background-color: #CF252C; 
+		width: 100px; 
+		height: 100px;
+		position: absolute;
+		margin:50px;	
+
+}
+
+.tres {
+		background-color: #0000FF;
+		width: 50px; 
+		height: 50px;
+		position: static;
+	
+}
+
